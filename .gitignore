@@ -1,0 +1,5 @@
+# cx_Freeze
+build/
+
+# mac
+.DS_Store
