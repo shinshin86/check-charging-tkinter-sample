@@ -1,5 +1,7 @@
 # check-charging-tkinter-sample
 
+![Demo](./images/demo.png)
+
 ## Usage
 Install psutil.
 
