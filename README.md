@@ -23,3 +23,9 @@ Create an executable file using [cx_Freeze](https://github.com/marcelotduarte/cx
 ```sh
 python setup.py bdist_mac
 ```
+
+### Windows
+
+```bat
+python setup.py build
+```
